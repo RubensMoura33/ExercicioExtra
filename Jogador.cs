@@ -12,11 +12,11 @@ namespace ExercicioExtra
     public abstract class Jogador
     {
         public string Nome; 
-        public string Nascimento;
+        public DateTime Nascimento;
         public string Nacionalidade;
         public string Altura;
         public float Peso;
-        public string DadosJogador(string nome, string nascimento, string nacionalidade, string altura, float peso)
+        public string DadosJogador(string nome, DateTime nascimento, string nacionalidade, string altura, float peso)
         {
             Nome = nome;
             Nascimento = nascimento;
@@ -24,14 +24,15 @@ namespace ExercicioExtra
             Altura = altura;
             Peso = peso;
 
-            Console.WriteLine(@$"
+           
+            return @$"
             Dados do Jogador:
             Nome:{Nome}
             Data de nascimento:{Nascimento}
             Nacionalidade:{Nacionalidade}
             Altura:{Altura}
-            Peso:{Peso}");
-
-            return "";
+            Peso:{Peso}";
         }
+
+        public 
     }}
