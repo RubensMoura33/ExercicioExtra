@@ -12,14 +12,18 @@ namespace ExercicioExtra
     public abstract class Jogador
     {
         public string Nome; 
-        public DateTime Nascimento;
+        public int Dia;
+        public int Mes;
+        public int Ano;
         public string Nacionalidade;
         public string Altura;
         public float Peso;
-        public string DadosJogador(string nome, DateTime nascimento, string nacionalidade, string altura, float peso)
+        public string DadosJogador(string nome, int dia, int mes, int ano, string nacionalidade, string altura, float peso)
         {
             Nome = nome;
-            Nascimento = nascimento;
+            Dia = dia;
+            Mes = mes;
+            Ano = ano;
             Nacionalidade = nacionalidade;
             Altura = altura;
             Peso = peso;
@@ -28,11 +32,12 @@ namespace ExercicioExtra
             return @$"
             Dados do Jogador:
             Nome:{Nome}
-            Data de nascimento:{Nascimento}
+            Data de nascimento:{dia}/{mes}/{ano}
             Nacionalidade:{Nacionalidade}
             Altura:{Altura}
             Peso:{Peso}";
         }
 
-        public 
-    }}
+        
+    }
+    }

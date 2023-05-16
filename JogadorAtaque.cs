@@ -5,8 +5,15 @@ using System.Threading.Tasks;
 
 namespace ExercicioExtra
 {
-    public class JogadorAtaque:Jogador
+    public class JogadorAtaque : Jogador
     {
-        
+
+        public void Aposentar()
+        {
+        if (Posicao == Atacante)
+        {
+          idadeAposentar = idade - 35; 
+        }
+        }
     }
 }
