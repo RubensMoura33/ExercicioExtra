@@ -3,3 +3,13 @@ C:\Users\50496884859\Desktop\ExercicioExtra\obj\Debug\net7.0\ExercicioExtra.Gene
 C:\Users\50496884859\Desktop\ExercicioExtra\obj\Debug\net7.0\ExercicioExtra.AssemblyInfoInputs.cache
 C:\Users\50496884859\Desktop\ExercicioExtra\obj\Debug\net7.0\ExercicioExtra.AssemblyInfo.cs
 C:\Users\50496884859\Desktop\ExercicioExtra\obj\Debug\net7.0\ExercicioExtra.csproj.CoreCompileInputs.cache
+C:\Users\50496884859\Desktop\ExercicioExtra\bin\Debug\net7.0\ExercicioExtra.exe
+C:\Users\50496884859\Desktop\ExercicioExtra\bin\Debug\net7.0\ExercicioExtra.deps.json
+C:\Users\50496884859\Desktop\ExercicioExtra\bin\Debug\net7.0\ExercicioExtra.runtimeconfig.json
+C:\Users\50496884859\Desktop\ExercicioExtra\bin\Debug\net7.0\ExercicioExtra.dll
+C:\Users\50496884859\Desktop\ExercicioExtra\bin\Debug\net7.0\ExercicioExtra.pdb
+C:\Users\50496884859\Desktop\ExercicioExtra\obj\Debug\net7.0\ExercicioExtra.dll
+C:\Users\50496884859\Desktop\ExercicioExtra\obj\Debug\net7.0\refint\ExercicioExtra.dll
+C:\Users\50496884859\Desktop\ExercicioExtra\obj\Debug\net7.0\ExercicioExtra.pdb
+C:\Users\50496884859\Desktop\ExercicioExtra\obj\Debug\net7.0\ExercicioExtra.genruntimeconfig.cache
+C:\Users\50496884859\Desktop\ExercicioExtra\obj\Debug\net7.0\ref\ExercicioExtra.dll
